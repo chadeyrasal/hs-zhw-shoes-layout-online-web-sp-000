@@ -35,10 +35,6 @@
   background: #fff;
 }
 
-.col-3 {
-  background: #fff;
-}
-
 .clearfix:after {
   content: ".";
   display: block;
