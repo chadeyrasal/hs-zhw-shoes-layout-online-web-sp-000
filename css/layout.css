@@ -33,7 +33,7 @@
   background: #fff;
 }
 
-.clearfix:after {
+.row:after {
   content: ".";
   display: block;
   clear: both;
